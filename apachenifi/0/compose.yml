@@ -1,0 +1,4 @@
+.catalog:
+  name: ApacheNiFi
+  version: latest
+  uuid: apachenifi-0
